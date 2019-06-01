@@ -1,0 +1,206 @@
+{
+  "status": "ok",
+  "totalResults": 685,
+  "articles": [
+    {
+      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "author": "Frederic Lardinois",
+      "title": "Google’s Flutter framework spreads its wings and goes multi-platform",
+      "description": "Google’s Flutter UI toolkit for cross-platform development may only be two years old, but it has quickly become the framework of choice for many developers. Until now, though, ‘cross-platform’ only referred to Android and iOS. Late last year, Google announced…",
+      "url": "http://techcrunch.com/2019/05/07/googles-flutter-framework-spreads-its-wings-and-goes-multi-platform/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2018/05/img_20180509_211914.jpg?w=533",
+      "publishedAt": "2019-05-07T20:30:43Z",
+      "content": "Google’s Flutter UI toolkit for cross-platform development may only be two years old, but it has quickly become the framework of choice for many developers. Until now, though, ‘cross-platform’ only referred to Android and iOS. Late last year, Google announced… [+3436 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Antonio Villas-Boas",
+      "title": "Your favorite apps and services could soon become available on all your devices thanks to a Google tool you've probably never heard of (GOOG, GOOGL)",
+      "description": "One of Google's best developer tools, called \" Flutter, \" will bridge the gap between mobile operating systems, desktop operating systems, and web browsers, the company announced at Google I/O. And yet, it's something that most people won't have heard about —…",
+      "url": "https://www.businessinsider.com/googles-flutter-will-bring-your-favorite-apps-to-mobile-desktop-web-2019-5",
+      "urlToImage": "https://amp.businessinsider.com/images/5cd26439021b4c06a413d6b3-1136-568.jpg",
+      "publishedAt": "2019-05-08T13:46:09Z",
+      "content": "Google is fixing one of the biggest hurdles for app developers that not only makes their jobs easier, but also makes their apps and services better to use on pretty much every platform we most commonly use, including Android, iOS, Windows 10, macOS, Chrome OS… [+2563 chars]"
+    },
+    {
+      "source": { "id": "the-new-york-times", "name": "The New York Times" },
+      "author": "James Poniewozik",
+      "title": "In the Democratic Primary, the Media Hits Are the Message",
+      "description": "On HBO, Instagram — even Fox News — aspirants are having a meta debate: How do you counterprogram a reality-TV president?",
+      "url": "https://www.nytimes.com/2019/05/27/arts/television/beto-documentary-hbo.html",
+      "urlToImage": "https://static01.nyt.com/images/2019/05/28/arts/27BETO-NOTEBOOK02/27BETO-NOTEBOOK02-facebookJumbo.jpg",
+      "publishedAt": "2019-05-27T20:50:10Z",
+      "content": "You cant miss the peak of Beto ORourkes 2018 Texas Senate campaign in HBOs Running with Beto. Maybe youve already seen it, on your phone or in a Facebook post: Mr. ORourke responding passionately to a question about N.F.L. players taking a knee to protest rac… [+1138 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Coolhunting.com" },
+      "author": "Kyle Raymond Fitzpatrick",
+      "title": "FLUTTER Pop-Up Museum, LA",
+      "description": "More than photogenic, this show encourages artists to play and experiment Akin to the Museum of Ice Cream, there’s been a surge of installations and quasi-museums infiltrating cities—many of which seem to be built purely for social media. In what might be a h…",
+      "url": "http://coolhunting.com/culture/flutter-pop-up-museum-la/",
+      "urlToImage": "https://i2.wp.com/coolhunting.com/wp-content/uploads/2019/05/Flutter-14.jpeg?fit=1200%2C795&ssl=1",
+      "publishedAt": "2019-05-31T16:21:37Z",
+      "content": "More than photogenic, this show encourages artists to play and experiment Click to view slideshow. Akin to the Museum of Ice Cream, there’s been a surge of installations and quasi-museums infiltrating cities—many of which seem to be built purely for social me… [+1422 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Heise.de" },
+      "author": null,
+      "title": "Entwicklungs-Framework: Flutter wird zum Multi-Plattform-Werkzeug",
+      "description": "Googles plattformübergreifendes mobiles UI-Framework Flutter wird derzeit für den Einsatz in Szenarien außerhalb der Mobilentwicklung vorbereitet.",
+      "url": "https://www.heise.de/developer/meldung/Entwicklungs-Framework-Flutter-wird-zum-Multi-Plattform-Werkzeug-4417063.html?wt_mc=rss.ho.beitrag.atom",
+      "urlToImage": "https://heise.cloudimg.io/bound/1920x1920/q90.png-lossy-90.webp-lossy-90.foil1/_www-heise-de_/imgs/18/2/6/7/4/5/8/6/io-392d13fec6a98d99.png",
+      "publishedAt": "2019-05-08T08:35:00Z",
+      "content": "Bislang hatte Googles plattformübergreifendes mobiles UI-Framework Flutter den Fokus auf der Entwicklung von Apps für Android und iOS. Zur I/O, der Hausmesse des Internetkonzerns, wurde nun bekannt gegeben, dass das Werkzeug nun auch zur Entwicklung für eine … [+4037 chars]"
+    },
+    {
+      "source": { "id": "engadget", "name": "Engadget" },
+      "author": "Cherlynn Low",
+      "title": "VR is a strangely fitting home for stop-motion animation",
+      "description": "Strange, fantastical things are brewing in VR, and the Tribeca Film Festival's Immersive Arcade is a great place to find them. One of the most intriguing things I saw at the festival this year was a stop-motion experience that also uses CGI and 3D 360-degree …",
+      "url": "https://www.engadget.com/2019/05/01/vr-stop-motion-gymnasia-tribeca-2019/",
+      "urlToImage": "https://o.aolcdn.com/images/dims?thumbnail=1200%2C630&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1920%252C1080%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C900%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2019-04%252F97989830-6aac-11e9-bfdf-360ea1421508%26client%3Da1acac3e1b3290917d92%26signature%3D2e1f956ba52e07192c27d89ec5f74bd49287c61d&client=amp-blogside-v2&signature=17960355218a7a688cd3740457e7a49ff86248a6",
+      "publishedAt": "2019-05-01T14:30:00Z",
+      "content": "To be clear, Gymnasia isn't the first stop-motion piece in VR. Felix &amp; Paul Studios had previously worked on other VR projects with stop-motion elements, like last year's Isle of Dogs: Behind the Scenes. But Gymnasia's creators Chris Lavis and Maciek Szcz… [+3688 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Xda-developers.com" },
+      "author": "Steven Zimmerman",
+      "title": "Flutter 1.5 Bridges the Gap, Adding Support for Web, Embedded, and Desktop",
+      "description": "It was just a year ago that Google first announced the Flutter Beta at MWC. Since then, Flutter has grown by leaps and bounds to quickly become arguably the best framework for multi-platform coding across iOS and Android. This year at Google I/O 2019 they are…",
+      "url": "https://www.xda-developers.com/flutter-1-5-support-web-embedded-desktop/",
+      "urlToImage": "https://www.xda-developers.com/files/2018/02/Flutter-Framework-Feature-Image-Screamin-Green.png",
+      "publishedAt": "2019-05-07T20:30:10Z",
+      "content": "It was just a year ago that Google first announced the Flutter Beta at MWC. Since then, Flutter has grown by leaps and bounds to quickly become arguably the best framework for multi-platform coding across iOS and Android. This year at Google I/O 2019 they are… [+3842 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Heise.de" },
+      "author": null,
+      "title": "Programmiersprache: Dart in Version 2.3 erschienen",
+      "description": "Die Dart-Entwickler bei Google haben die I/O-Konferenz genutzt, um eine neues Release des JavaScript-Herausforderers zu veröffentlichen.",
+      "url": "https://www.heise.de/developer/meldung/Programmiersprache-Dart-in-Version-2-3-erschienen-4419475.html?wt_mc=rss.ho.beitrag.atom",
+      "urlToImage": "https://heise.cloudimg.io/bound/1920x1920/q90.png-lossy-90.webp-lossy-90.foil1/_www-heise-de_/imgs/18/2/6/7/6/3/0/5/dart-33d0a4e6f12101a6-de298af1ffda7ed1.jpeg",
+      "publishedAt": "2019-05-10T06:32:00Z",
+      "content": "Während Googles I/O-Konferenz, die diese Woche in Kalifornien stattfand, wurde die Version 2.3 der Programmiersprache Dart veröffentlicht. Das als stabil bezeichnete Release umfasst neue Sprachfeatures, die für eine bessere Entwicklung von Benutzeroberflächen… [+1957 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Googleblog.com" },
+      "author": "Google Developers",
+      "title": "Flutter: a Portable UI Framework for Mobile, Web, Embedded, and Desktop",
+      "description": "Today marks an important milestone for the Flutter framework, as we expand our focus from mobile to incorporate a broader set of devices and form factors. At I/O, we’re releasing our first technical preview of Flutter for web, announcing that Flutter is power…",
+      "url": "https://developers.googleblog.com/2019/05/Flutter-io19.html",
+      "urlToImage": "https://1.bp.blogspot.com/-ak_aEW48mmA/XNCDH1UYfaI/AAAAAAAAHeg/NUhgwcoZX2Ei7exfQreLRSmOfPtxdCReQCLcBGAs/s1600/image2.png",
+      "publishedAt": "2019-05-07T20:30:00Z",
+      "content": "Posted by the Flutter Team Today marks an important milestone for the Flutter framework, as we expand our focus from mobile to incorporate a broader set of devices and form factors. At I/O, we’re releasing our first technical preview of Flutter for web, annou… [+10913 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Habr.com" },
+      "author": "rookie_cruekie",
+      "title": "[Перевод] RxVMS — практичная архитектура для Flutter-приложений",
+      "description": "Это первый пост из серии публикаций, в которых объясняется мое понимание архитектуры приложений для Flutter. Предупреждаю — это будет весьма самоуверенным. Пока запланированы: Введение (этот пост) Основы Dart Streams (потоков Dart) RxDart: магические трансфор…",
+      "url": "https://habr.com/ru/post/448776/",
+      "urlToImage": "https://habrastorage.org/getpro/habr/post_images/9cf/f8a/7c1/9cff8a7c191e44a7f4f269c3b0ee97cd.png",
+      "publishedAt": "2019-05-07T04:23:37Z",
+      "content": ", Flutter. .\r\n :\r\n ( )\r\n Dart Streams ( Dart)\r\nRxDart: \r\n RxVMS: RxCommand GetIt\r\nRxVMS: \r\nRxVMS: \r\n RxVMS\r\n20 . 4 Xamarin.Forms, -. Xamarin.Forms MVVM, UI XAML, - , UI . Xamarin ReactiveUI (Rx), .\r\n , Xamarin.Forms MVVM \"-\", Flutter , . , :\r\nInheritedWidget:… [+728 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Googleblog.com" },
+      "author": "Google Developers",
+      "title": "Flutter and Chrome OS: Better Together",
+      "description": "Since its inception, Flutter has shared many of the same principles as Chrome OS: productive, fast, and beautiful experiences. Flutter allows developers to build beautiful, fast UIs, while also providing a high degree of developer productivity, and a complete…",
+      "url": "https://developers.googleblog.com/2019/05/flutter-and-chrome-os-better-together.html",
+      "urlToImage": "https://2.bp.blogspot.com/-2sZnLe4zwsM/XNWdwBvxvuI/AAAAAAAAHlY/NGOjbYMc4MgfgIerxOLJmf5aJiqc5-D_QCLcBGAs/s1600/image2.jpg",
+      "publishedAt": "2019-05-10T18:33:00Z",
+      "content": "Posted by the Flutter and Chrome OS teams Chrome OS is the fast, simple, and secure operating system that powers Chromebooks, including the Google Pixelbook and millions of devices used by consumers and students every day. The latest Flutter release adds supp… [+5627 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Mspoweruser.com" },
+      "author": "Pradeep",
+      "title": "Google’s Xamarin competitor now supports desktop and the web",
+      "description": "At MWC 2018 last year, Google first announced Flutter, its mobile UI framework for developing native interfaces on iOS and Android. Flutter competes with Microsoft’s cross platform mobile framework Xamarin. At Google I/O yesterday, Google announced a major up…",
+      "url": "https://mspoweruser.com/googles-xamarin-competitor-now-supports-desktop-and-the-web/",
+      "urlToImage": "https://mspoweruser.com/wp-content/uploads/2019/05/Flutter-Google.png",
+      "publishedAt": "2019-05-08T13:30:57Z",
+      "content": "At MWC 2018 last year, Google first announced Flutter, its mobile UI framework for developing native interfaces on iOS and Android. Flutter competes with Microsofts cross platform mobile framework Xamarin. At Google I/O yesterday, Google announced a major upd… [+995 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Habr.com" },
+      "author": "phillennium",
+      "title": "«То, что мы обсуждаем в России, актуально и на Западе»: интервью с Денисом Неклюдовым",
+      "description": "Денис Неклюдов интересен Android-разработчикам по целому ряду причин. Он занимается «Android Dev Подкастом», выступает на конференциях, посещает саммиты GDE — в общем, вовлечён в жизнь сообщества самыми разными способами. А поскольку сейчас живёт в США и рабо…",
+      "url": "https://habr.com/ru/company/jugru/blog/451614/",
+      "urlToImage": "https://habrastorage.org/webt/qq/qy/q8/qqqyq8enxz3hdwm61ehnvjcdeh8.jpeg",
+      "publishedAt": "2019-05-14T13:49:59Z",
+      "content": "Android- . «Android Dev », , GDE , . Lyft, .\r\nMobius 2019 Piter, « », . ? , ? Google Android-? ?\r\nAndroid Dev Podcast, Flutter Dev Podcast «»?Flutter. , GDE. Google : , Android?\r\n, , , , , , , .\r\n- , - , JavaScript. , , . , , . , Dart . , Kotlin, . \r\n, , Flut… [+2338 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Techmeme.com" },
+      "author": null,
+      "title": "Google expands its Flutter mobile app SDK, previously focused on Android and iOS, to the web, desktop, and embedded devices (Emil Protalinski/VentureBeat)",
+      "description": "Emil Protalinski / VentureBeat : Google expands its Flutter mobile app SDK, previously focused on Android and iOS, to the web, desktop, and embedded devices — At its I/O 2019 developer conference today, Google launched version 1.5 of Flutter, its open source …",
+      "url": "https://www.techmeme.com/190507/p50",
+      "urlToImage": "https://venturebeat.com/wp-content/uploads/2019/05/flutter-mobile-desktop-web-embedded.png?w=1200&strip=all",
+      "publishedAt": "2019-05-07T21:15:01Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "Cnbeta.com" },
+      "author": "ugmbbc",
+      "title": "Flutter成为多平台框架 支持移动、Web、桌面和嵌入式设备",
+      "description": "今天对于 Flutter 框架是一个重要的里程碑日子，因为 谷歌在其官方博客宣布 ，Flutter 已支持移动、Web、桌面和嵌入式设备，这意味着它正式成为了支持多平台的轻量级 UI 框架。 阅读全文",
+      "url": "https://www.cnbeta.com/articles/tech/845045.htm",
+      "urlToImage": "https://static.cnbetacdn.com/article/2019/05/c3ca0f2a32ae0fc.webp",
+      "publishedAt": "2019-05-08T00:57:54Z",
+      "content": "2019 I/O  Flutter for web  Flutter Google Home Hub Google Chrome OS \r\nFlutter for Web Flutter ( code-compatible) Web HTML, CSS JavaScript Flutter for web Dart Flutter Web (client experience) Flutter \r\nFlutter iOS Android Flutter 1.0 Flutter Hummingbird Dart W… [+74 chars]"
+    },
+    {
+      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "author": "Frederic Lardinois",
+      "title": "GoogleのFlutterはmacOSやWindowsも含む真のマルチプラットフォーム対応へ",
+      "description": "<img src=\"https://techcrunchjp.files.wordpress.com/2019/05/img_20180509_211914.jpg\" class=\"aligncenter size-full wp-image-275078\" alt=\"\" width=\"990\" height=\"742\">\n\nGoogleの<a target=\"_blank\" href=\"https://flutter.dev/\">Flutter</a>は、クロスプラットフォーム開発に対応した UIツールキット。…",
+      "url": "https://jp.techcrunch.com/2019/05/09/2019-05-07-googles-flutter-framework-spreads-its-wings-and-goes-multi-platform/",
+      "urlToImage": "https://techcrunchjp.files.wordpress.com/2019/05/img_20180509_211914.jpg?w=990",
+      "publishedAt": "2019-05-09T08:15:17Z",
+      "content": "GoogleFlutter UI2AndroidiOSGoogleFlutter57Google I/OFlutter\r\nGoogleFluttermacOSWindowsLinuxGoogleFlutterGoogle Home HubNest Hub\r\nFlutterFlutterTim SneathFlutterUI\r\nFlutterGoogleDartJavaScriptFlutterFlutterSneathFlutter\r\nFlutterSneath\r\nFluttermacOSWindowsLinux… [+176 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Frandroid.com" },
+      "author": "Edouard Marquez",
+      "title": "Google Smart Display : l’OS Fuchsia a-t-il trouvé son premier support ?",
+      "description": "Au détour d’une phrase dans la présentation de Flutter, on peut se demander si Google n’est pas en train de mettre en place les fondations pour que Fuchsia — l’OS développé par Google — prenne son envol. Lors de la conférence pour les développeurs de Google, …",
+      "url": "https://www.frandroid.com/android/593367_google-smart-display-los-fuchsia-a-t-il-trouve-son-premier-support",
+      "urlToImage": "https://images.frandroid.com/wp-content/uploads/2019/05/image5.gif",
+      "publishedAt": "2019-05-08T18:08:37Z",
+      "content": "Au détour d’une phrase dans la présentation de Flutter, on peut se demander si Google n’est pas en train de mettre en place les fondations pour que Fuchsia — l’OS développé par Google — prenne son envol.\r\nLors de la conférence pour les développeurs de Google,… [+3603 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Boingboing.net" },
+      "author": "Rob Beschizza",
+      "title": "Already regretting assigning Anthony Burgess to review the Samsung Galaxy Fold",
+      "description": "“Welly, welly, well, to what do I owe the extreme pleasure of this ganjy gadget? What’s it going to be then, eh? There was me, that is Lexa, and my pelendus Pria, Georgina, and Dim, all sat in the So Milkbar with the package sent my way, safe of the rainy bla…",
+      "url": "https://boingboing.net/2019/05/24/already-regretting-assigning-a.html",
+      "urlToImage": "https://media.boingboing.net/wp-content/uploads/2019/05/folding-lemon.jpg",
+      "publishedAt": "2019-05-24T21:25:00Z",
+      "content": "Welly, welly, well, to what do I owe the extreme pleasure of this ganjy gadget? Whats it going to be then, eh? \r\nThere was me, that is Lexa, and my pelendus Pria, Georgina, and Dim, all sat in the So Milkbar with the package sent my way, safe of the rainy bla… [+3697 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Cnbeta.com" },
+      "author": "ugmbbc",
+      "title": "Dart 2.3 发布 带来构建 UI 新特性",
+      "description": "Google I/O 2019 第二天，官方 发布了 Dart 2.3 稳定版本 。此版本针对构建用户界面进行了优化，改善了开发者在开发 UI 时的编码体验，为开发 Flutter UI 提供了新的工具支持，同时还提供了两个新的网站：dart.dev 与 pub.dev。 阅读全文",
+      "url": "https://www.cnbeta.com/articles/soft/845369.htm",
+      "urlToImage": "https://oscimg.oschina.net/oscnet/c00b9c52f8f4c7541d47032c4d99d622677.jpg",
+      "publishedAt": "2019-05-08T23:50:44Z",
+      "content": "Dart Flutter Dart UI \r\n Dart widget int-to-double set literalsDart 2.3 UI \r\n UI widget widget spread operator buildMainElements() widget ... \r\nWidget build(BuildContext context) {  return Column(children: [    Header(),    ...buildMainElements(),    Footer(),… [+694 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Frandroid.com" },
+      "author": "Omar Belkaab",
+      "title": "Fuchsia : Google confirme discrètement son mystérieux OS en préparation",
+      "description": "En marge de la Google I/O 2019, un responsable de l’entreprise a très discrètement confirmé l’existence de l’OS Fuchsia censé remplacer Android et Chrome OS. Cela fait plusieurs années que nous parlons de Fuchsia, le système d’exploitation ambitieux et encore…",
+      "url": "https://www.frandroid.com/marques/google/593443_fuchsia-google-confirme-discretement-son-mysterieux-os-en-preparation",
+      "urlToImage": "https://images.frandroid.com/wp-content/uploads/2019/05/fuchsia-z.jpg",
+      "publishedAt": "2019-05-09T06:12:46Z",
+      "content": "En marge de la Google I/O 2019, un responsable de l’entreprise a très discrètement confirmé l’existence de l’OS Fuchsia censé remplacer Android et Chrome OS.\r\nCela fait plusieurs années que nous parlons de Fuchsia, le système d’exploitation ambitieux et encor… [+2081 chars]"
+    }
+  ]
+}
